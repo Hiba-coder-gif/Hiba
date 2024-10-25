@@ -1,0 +1,32 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #F5F3E5; 
+    color: #5B3A29; 
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #BF3A30; 
+    color: #FFFFFF; 
+    padding: 20px;
+    text-align: center;
+}
+.skills {
+    background-color: #F1B2B6; 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+    padding: 15px;
+}
+.projects {
+    background-color: #D2673A; /* Orange brûlé */
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    padding: 10px 15px;
+    text-align: center;
+    transition: background-color 0.3s;
+}
+
